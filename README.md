@@ -27,4 +27,3 @@ python connect-4.py
 
 ## Tech
 Python · Pygame · NumPy · game AI · heuristic evaluation
-# connect-4
